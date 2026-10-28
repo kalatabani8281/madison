@@ -1,0 +1,6 @@
+{
+  "name": "Stay at Madison's Cebu",
+  "description": "Cozy condos and stays in Cebu City at Horizons 101 with real-time calendar availability sync, instant reservations, chat support, and automated email confirmations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
